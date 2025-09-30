@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = { 
   "accessorize": "accessorise",
   "accessorized": "accessorised",
   "accessorizes": "accessorises",
